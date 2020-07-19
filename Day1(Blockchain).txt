@@ -1,0 +1,31 @@
+Question:1
+
+What is understanding of blockchain?
+Ans -It is defined as my point of view  blockchain is used currently in data security . For example in banking sector ,bitcoin etc
+
+Question :2
+What is core problem blockchain is currently try to solving it.
+Ans -1. Supply chain item and history
+     2. Voting of election
+     3.Government operation
+     4.Intellectual Property
+     5.Cloud storage,Charity...as on
+     
+Qestion:3
+What are the few features the blockchain will give you?
+Ans.1.Cannot be corrupted.
+    2.Decentralized technology
+    3.Enhanced Technology
+    4.Distributed Ledgers
+    5.Faster settlement
+    
+Question:4
+What all things does a block contain ?
+Ans-1.Block number
+    2. Transaction records
+    3.Previous block signature
+    4.Mining key (Nonce)
+    
+question:5
+What is verifiability of blockchain has been attained.
+Ans-Each and every person involved in the group will check the hash provided. If the hash of all the participants is the same, then the data is similar to one another. But if the hash of one of the participants is different, then we can cross-check what was the difference of the data which was leading to a different hash
